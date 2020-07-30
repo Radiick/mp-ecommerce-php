@@ -3,3 +3,9 @@
     "type": "project",
     "require": {}
 }
+
+{
+    "name": "mercadopago/dx-php:2.0.0",
+    "type": "project",
+    "require": {}
+}
